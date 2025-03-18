@@ -39,8 +39,8 @@ shared["F​F​l​a​g​A​X​C​o​m​b​i​n​e​G​e​t​O​
         
     ["TriggerBot"] = {
         ['Enabled'] = (true),
-        ['Toggle'] = ('E'),
-        ['Input'] = ('Keyboard'), --[[ Mouse, Keyboard ]]
+        ['Toggle'] = ('MouseButton4'),
+        ['Input'] = ('Mouse'), --[[ Mouse, Keyboard ]]
         ['Field'] = ('Cursor'), --[[ Cursor, Magnitude ]]
         ['Type'] = ('Toggle'),  --[[ Toggle, Hold ]]
         
